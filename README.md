@@ -1,8 +1,10 @@
 # New_Card_Appointmet_System
 At the beginning, we should design appointment system for new identity card . We have two different list
 which are these in the following:
--Citizen with Appointment 
--Citizen with no Appointment
+  -Citizen with Appointment 
+  
+  -Citizen with no Appointment
+
 So we need divide the list depending on HasApp-->True or false
 I am parsing and divide the file with the respect to"/t" tab. I obtain Citizen of idNO's Name's, Surname's
 etc. containing with stl vector.
