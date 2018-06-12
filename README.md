@@ -10,6 +10,6 @@ So we need divide the list depending on HasApp-->True or false
 I am parsing and divide the file with the respect to"/t" tab. I obtain Citizen of idNO's Name's, Surname's
 etc. containing with stl vector.
 
-I coul design Time.h and Citizen.h.  because it becomes suitable for arrangement. Hereby, ı could compare wtih
-Time.h and containing in this Attributes in Citizen.h. Througly, ı could use this object in CivilRegistry
-decision class. I use stl,operator overloading and OOP properties with this code. 
+I could design with Time.h and Citizen.h.  because it becomes suitable for arrangement. Hereby, ı could compare wtih
+Time.h and contain in this attributes in Citizen.h. Througly, ı could use these object in CivilRegistry.h
+decision class. I use stl,operator overloading and OOP properties with this code. With this code, I serve a ordered list respect to appointment or without appointment fairly.
