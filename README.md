@@ -1,4 +1,4 @@
-# New_Card_Appointment_System
+# New Identity Card Appointment System
 At the beginning, we should design appointment system for new identity card . We have two different list
 which are these in the following:
  
